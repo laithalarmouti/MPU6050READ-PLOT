@@ -23,7 +23,6 @@ The data output can be directly plotted using a serial plotter tool. You can vis
 - `Accel_X`, `Accel_Y`, `Accel_Z`
 - `Gyro_X`, `Gyro_Y`, `Gyro_Z`
 
-📸 **Screenshots of the plotting interface will be added here.**
 
 ##  Skills Demonstrated
 
@@ -47,6 +46,10 @@ INT - PB5
 3. Open a serial terminal or plotter at **115200 baud rate**.
 
 4. Observe real-time sensor data plotted over the serial port.
+
+![MPU6050 Serial Plot Preview](1.jpeg)
+![MPU6050 Serial Plot Preview](2.jpeg)
+https://drive.google.com/file/d/1KfLnBXQYbBz2KeYIEowQzYJEsujY-CUI/view?usp=sharing
 
 ##  Notes
 
